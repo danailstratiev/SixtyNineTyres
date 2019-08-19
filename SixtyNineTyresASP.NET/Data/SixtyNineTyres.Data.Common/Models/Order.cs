@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SixtyNineTyres.Data.Common.Models.Enums;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
